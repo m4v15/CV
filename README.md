@@ -31,7 +31,7 @@ I have only heard good things, and it appears this stack is going to become more
 
 This are all projects I was one of multiple (2 or 4) lead developers on, during my time at founders and coders
 
-- EasyNaz: A graduate project developed with Almanarah organisation, to help identify accesible services in Nazareth
+- [EasyNaz](https://easynaz.herokuapp.com/): A graduate project developed with [Almanarah organisation](http://www.almanarah.org/eng/), to help identify accesible services in Nazareth
 - Volunteer app: Another graduate project devised by me and a fellow student to help connect volunteers with organisations looking for help.
 - GOT API: First project using API's, made after 3 weeks of web development learning!
 - Scoreboard: A personal project made for myself to help keep track of scores in a game of contract whist.
