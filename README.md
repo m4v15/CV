@@ -56,3 +56,4 @@ the first cohort outside of London, in Nazareth, the largest Arab city in Israel
 * Cooking
 * Social Enterprises
 * Exploring
+* Sports data analytics
