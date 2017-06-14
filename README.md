@@ -29,12 +29,15 @@ I have only heard good things, and it appears this stack is going to become more
 
 ### Projects
 
+#### Past
 This are all projects I was one of multiple (2 or 4) lead developers on, during my time at founders and coders
 
-- [EasyNaz](https://easynaz.herokuapp.com/): A graduate project developed with [Almanarah organisation](http://www.almanarah.org/eng/), to help identify accesible services in Nazareth
-- Volunteer app: Another graduate project devised by me and a fellow student to help connect volunteers with organisations looking for help.
-- GOT API: First project using API's, made after 3 weeks of web development learning!
-- Scoreboard: A personal project made for myself to help keep track of scores in a game of contract whist.
+- [EasyNaz](https://easynaz.herokuapp.com/): A graduate project developed with [Almanarah organisation](http://www.almanarah.org/eng/), to help identify accesible services in Nazareth [Github](https://github.com/FACN1/easyNaz)
+- [Volunteer app] (https://tolife.herokuapp.com/): Another graduate project devised by me and a fellow student to help connect volunteers with organisations looking for help. [Github](https://github.com/FACN1/VolunteerApp)
+- [Game Of Thrones API](https://github.com/FACN1/week3-javiasy): First project using API's, made after 3 weeks of web development learning!
+
+#### Ongoing
+- [Scoreboard](https://m4v15.github.io/CSB/public/index.html): A personal project made for myself to help keep track of scores in a game of contract whist. Currently on hold, whilst I learn react, at which point I plan to redevelop this using that framework.
 
 ### Experience
 
