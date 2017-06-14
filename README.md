@@ -55,3 +55,4 @@ the first cohort outside of London, in Nazareth, the largest Arab city in Israel
 * Films
 * Cooking
 * Social Enterprises
+* Exploring
