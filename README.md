@@ -13,6 +13,19 @@ A highly motived and newly trained Full Stack Web Developer, graduate of the  co
 |CSS| Tachyons (CSS library)||Heroku||
 |Basic Python (improving as we speak!)|
 
+### Projects
+
+#### Current
+- [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform): A graduate project developed with the Nazareth Cultural and Tourism Association. An open backend to help support and facilitate the creation of apps and websites aimed at developing tourism in Nazareth.
+
+#### Past
+This are all projects I was one of multiple (2 or 4) lead developers on, during my time at founders and coders
+
+- [EasyNaz](https://easynaz.herokuapp.com/): A Founders & Coders project developed with [Almanarah organisation](http://www.almanarah.org/eng/), to help identify accesible services in Nazareth [Github](https://github.com/FACN1/easyNaz)
+- [Volunteer app](https://tolife.herokuapp.com/): Another project devised by me and a fellow student to help connect volunteers with organisations looking for help. [Github](https://github.com/FACN1/VolunteerApp)
+- [Game Of Thrones API](https://github.com/FACN1/week3-javiasy): First project using API's, made after 3 weeks of web development learning!
+
+
 #### Currently learning
 
 As someone who believes that there's always more to learn, I'm often trying to teach myself something new. Technologies I'm currently improving on:
@@ -27,28 +40,16 @@ Developing on top of the data analytics knowledge of it I developed during unive
 - #### Elm/Elixir/Phoenix
 I have only heard good things, and it appears this stack is going to become more and more common, so I plan on getting to grips with it in the coming months
 
-### Projects
-
-#### Past
-This are all projects I was one of multiple (2 or 4) lead developers on, during my time at founders and coders
-
-- [EasyNaz](https://easynaz.herokuapp.com/): A graduate project developed with [Almanarah organisation](http://www.almanarah.org/eng/), to help identify accesible services in Nazareth [Github](https://github.com/FACN1/easyNaz)
-- [Volunteer app] (https://tolife.herokuapp.com/): Another graduate project devised by me and a fellow student to help connect volunteers with organisations looking for help. [Github](https://github.com/FACN1/VolunteerApp)
-- [Game Of Thrones API](https://github.com/FACN1/week3-javiasy): First project using API's, made after 3 weeks of web development learning!
-
-#### Ongoing
-- [Scoreboard](https://m4v15.github.io/CSB/public/index.html): A personal project made for myself to help keep track of scores in a game of contract whist. Currently on hold, whilst I learn react, at which point I plan to redevelop this using that framework.
-
 ### Experience
 
 #### Founders & Coders Web Development Bootcamp (Nazareth & London)
 - Took part as a student in a highly selective 16 week intensive web development course, which reignited my love for software development and problem solving.
-- I am currently developing a proof of concept accessibility web app for a client based in Nazareth, with fellow graduates from the course.
-- Strong focus on peer led learning, I have really learnt how to learn and teach better, and more productively, through
+- I am currently helping deliver the second iteration of the course in Nazareth as a mentor, facilitating the learning of local and international students. This involves planning and delivering content and working alongside and co-ordinating with other mentors
+- Alongside this I am working with another graduate of the first course on the Nazareth Open Tourism Platform (see Projects)
+- With a strong focus on peer led learning, I learnt how to learn and teach better, and more productively, through
 working alongside people above and below me in skill level.
 - Working with students with lower levels of English really forced me to become a much clearer communicator of
 complex, technical concepts.
-- Also helping to deliver the next course, by helping plan and create new course materials.
 - Founders and Coders has easily been one of the most formative and enriching experiences of my life - I took part in
 the first cohort outside of London, in Nazareth, the largest Arab city in Israel, and it has expanded my horizons almost infinitely.
 
